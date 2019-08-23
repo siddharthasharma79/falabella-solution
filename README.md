@@ -39,17 +39,16 @@ composer install
 
 # How to run the solution
 
-There are two solutions, class-base and non-class-base
+There are two solutions, class-based and non-class-based
 
-### 1. Class Base Solution
+### 1. Class Based Solution
 
-run following command in your root diretory
-
+Run following command in your root diretory
 ```
 php index.php
 ```
 
-### 2. Non Class Base Solution
+### 2. Non Class Based Solution
 
 Run following command in your root dirctory
 
