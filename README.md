@@ -11,7 +11,7 @@ Following packages must be installed on your system to run this solution.
 1. PHP v7.0.0 or higher [[Get PHP]](https://www.php.net/downloads.php)
 2. composer [[Get Composer]](https://getcomposer.org/download/)
 3. git [[Get Git]](https://git-scm.com/downloads)
-   > _**Note:** php, composer and gits should be in your path to proceed with further steps_
+> _**Note:** php, composer and gits should be in your path to proceed with further steps_
 
 # Installation
 
