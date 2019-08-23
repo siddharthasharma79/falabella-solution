@@ -1,0 +1,36 @@
+{
+  "name": "sidd/falabella-assignment",
+  "description": "This package is develop for solution of falabella challange problem.",
+  "keywords": [
+    "sidd",
+    "code"
+  ],
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "require": {
+    "php": "^7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~7.0.0"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "authors": [
+    {
+      "name": "Siddhartha Sharma",
+      "email": "siddharthasharma79@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sidd\\": "app/Sidd"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Sidd\\": "app/test"
+    }
+  },
+  "minimum-stability": "dev"
+}

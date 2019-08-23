@@ -1,0 +1,9 @@
+<phpunit bootstrap="vendor/autoload.php"
+  colors="Always">
+
+  <testSuites>
+    <testSuite name="Sidd App">
+      <directory>tests</directory>
+    </testSuite>  
+  </testSuites>
+</phpunit>  
