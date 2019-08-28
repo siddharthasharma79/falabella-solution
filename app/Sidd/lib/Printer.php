@@ -30,7 +30,4 @@ class Printer {
         break;  
     }
   }
-
 }
-
-?> 
