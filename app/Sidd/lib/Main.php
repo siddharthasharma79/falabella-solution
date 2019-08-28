@@ -21,8 +21,5 @@ class Main
       $Printer = new Printer;
       $Printer->printNumber($Store);
     } 
-  }
-   
+  } 
 }
-
-?>
