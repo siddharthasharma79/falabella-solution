@@ -54,5 +54,3 @@ class PrinterTest extends TestCase
         $this->_printerObj->printNumber($this->_storeObj);
     }
 }
-
-?>
