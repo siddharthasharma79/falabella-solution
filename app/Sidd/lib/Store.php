@@ -15,4 +15,3 @@ class Store {
    public $numRem35;
 
 }
-?>
