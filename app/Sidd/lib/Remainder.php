@@ -17,5 +17,3 @@ class Remainder {
     return $numRem1 + $numRem2 ;
   }
 }
-
- ?>
