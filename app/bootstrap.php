@@ -6,4 +6,3 @@
  * @Last Modified time: 2019-08-23 02:46:57
  */
 require_once __DIR__ . '/../vendor/autoload.php';
- ?>
