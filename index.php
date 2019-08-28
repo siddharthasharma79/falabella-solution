@@ -11,5 +11,3 @@ require_once('app/bootstrap.php');
 
 $main = new Main();
 $main->printNumbers();
-
-?>
